@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tokyo</string>
+    <string name="tituloDescripcion">DESCRIPCION</string>
+    <string name="cuerpoDescripcion">Tokio es la capital de Japón. Es el centro de la política, la economía, la educación, comunicación y cultura del país. Fue elegida en 2015 como la ciudad más segura del mundo por el periódico The Economist y fue sede de los juegos olímpicos de 1964 y 2020. En su área metropolitana viven más de 40 millones de habitantes.</string>
+    <string name="tituloTemperatura">TEMPERATURA</string>
+    <string name="cuerpoTemperatura">Durante el transcurso del año, la temperatura suele variar de 2ºC a 31ºC y rara vez baja de 0ºC y sube de 34ºC. La temperatura media en invierno es de 6ºC. En los meses de verano, especialmente junio y julio se caracterizan las altas temperaturas y las fuertes lluvias en Tokio. En otoño la temperatura promedio es de 18ºC y es más alta la probabilidad de lluvias y de vientos huracanados.</string>
+    <string name="tituloLugaresTuristicos">LUGARES TURISTICOS</string>
+    <string name="cuerpoLugaresTuristicos">Dentro de los lugares turísticos más significativos de Tokio están el Palacio Imperial, el Distrito Ginza, El Museo Nacional de Tokio, el Templo de Senso-Ji, el Skytree de Tokio, El Museo de Arte Mori, El Museo Miraikan, el Parque Ueno, entre otros.</string>
+    <string name="descripcionImagenDetalle">Ciudad de Tokyo</string>
+</resources>
