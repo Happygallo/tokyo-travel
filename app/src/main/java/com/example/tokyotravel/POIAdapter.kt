@@ -5,6 +5,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.tokyotravel.databinding.ItemPoiBinding
+import com.squareup.picasso.Picasso
 
 class POIAdapter(val pointOfInterest: List<POI>): RecyclerView.Adapter<POIAdapter.POIHolder>() {
 
@@ -18,8 +19,6 @@ class POIAdapter(val pointOfInterest: List<POI>): RecyclerView.Adapter<POIAdapte
     }
 
     override fun getItemCount(): Int {
-        println("Tamannooo")
-        println(pointOfInterest.size)
         return pointOfInterest.size
     }
 
@@ -29,9 +28,8 @@ class POIAdapter(val pointOfInterest: List<POI>): RecyclerView.Adapter<POIAdapte
         fun render(pointOfInterest: POI) {
             binding.tvNombre.text = pointOfInterest.name
             binding.tvDescripcion.text = pointOfInterest.description
-            binding.tvPuntaje.text = pointOfInterest.rating.toString()
-
-            println(pointOfInterest.name)
+            binding.tvPuntaje.text = pointOfInterest.rating
+            Picasso.get().load(pointOfInterest.image).into(binding.imageView)
         }
     }
 }
