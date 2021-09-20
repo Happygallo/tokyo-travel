@@ -1,0 +1,68 @@
+[
+  {
+    "photo": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2020/05/akihabara-iStock-484915982-1024x683.jpg",
+    "place_name": "Akihabara",
+    "description": "Akihabara, conocido como el barrio electrónico y uno de los lugares que visitar en Tokio más imprescindibles, reúne cada día a miles de seguidores del manga, anime, videojuegos y ordenadores, hasta todo tipo de accesorios sofisticados, que te dejarán sin palabras.",
+    "score": "10/10"
+  },
+  {
+    "photo": "https://www.101viajes.com/sites/default/files/templo-budista-sensoji.jpg",
+    "place_name": "El templo Sensoji",
+    "description": "En el interior del Templo Sensoji destaca la bonita pagoda de cinco pisos y el salón principal Hondo, además de varios salones, santuarios, campanas, puertas, templos, estatuas y un jardín que harán las delicias de todo viajero.",
+    "score": "8/10"
+  },
+  {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Roppongi-Mori-Tower-01.jpg/250px-Roppongi-Mori-Tower-01.jpg",
+    "place_name": "Torre Mori",
+    "description": "Este edificio del distrito de Roppongi Hills, tiene para nosotros las mejores vistas de Tokio desde su mirador exterior situado a 238 metros de altura. Antes de llegar a la azotea tiene otro buen mirador en el piso 52, aunque las vistas son detrás de un cristal.",
+    "score": "8/10"
+  },
+  {
+    "photo": "https://vivetokio.com/wp-content/uploads/2019/11/gobierno-metropolitano-tokio-1024x683.jpg",
+    "place_name": "Edificio del Gobierno Metropolitano",
+    "description": " Este edificio de 243 metros, conocido como Tochō, tiene dos excelentes miradores panorámicos situados a 202 metros. Se diferencia con el resto de miradores de la ciudad en que es gratuito, convirtiéndolo en otro de los lugares que visitar en Tokio imprescindibles",
+    "score": "10/10"
+  },
+  {
+    "photo": "https://aws.admagazine.com/prod/designs/v1/assets/767x384/91686.jpg",
+    "place_name": "Torre de Tokio",
+    "description": "Esta torre de 333 metros de altura, inspirada en la arquitectura de la Torre Eiffel, es el mirador más famoso de la ciudad. El observatorio se encuentra a 250 metros de altura y tiene unas magníficas vistas panorámicas. Además en la base de la torre se encuentra el bonito templo Zojoji, otra de las visitas imprescindibles de la ciudad.",
+    "score": "8/10"
+  },
+  {
+    "photo": "https://i2.wp.com/www.agoda.com/wp-content/uploads/2019/05/Toyosu-fish-market-Tokyo-Fruit-and-Vegetable-Building.jpg",
+    "place_name": "Mercado de pescado de Toyosu",
+    "description": "Este nuevo mercado conserva la tradición de Tsukiji, pero al mismo tiempo es mucho más grande, moderno y accesible, tanto para comerciantes como para los miles turistas que lo visitan cada día.",
+    "score": "1/10"
+  },
+  {
+    "photo": "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/03/a0003079/img/basic/a0003079_main.jpg",
+    "place_name": "Shibuya",
+    "description": "Merece la pena recorrerlo tanto de día, con sus tiendas y restaurantes de todo tipo, como de noche, momento en que la presencia de las luces de neón, discotecas y atracciones sorprendentes, harán que pierdas la noción del tiempo.",
+    "score": "10/10"
+  },
+  {
+    "photo": "https://resources.matcha-jp.com/resize/720x2000/2020/09/09-106983.jpeg",
+    "place_name": "Harajuku",
+    "description": "La calle peatonal Takeshita-dori, epicentro del barrio de Harajuku, es la más sorprendente y famosa de toda la ciudad de Tokyo. Con 500 metros llenos de cafés y tiendas, es el punto en el que se concentran, sobre todo en fin de semana, jóvenes con un estilo de vestir y comportamiento kawaii.",
+    "score": "10/10"
+  },
+  {
+    "photo": "https://cdn2.civitatis.com/japon/tokio/guia/ginza.jpg",
+    "place_name": "Ginza",
+    "description": "El barrio de Ginza, otro de los lugares que ver en Tokio, destaca por la arquitectura de sus modernos edificios y por sus tiendas exclusivas. Aunque si te gustan las compras, además tiene una gran variedad de centros comerciales, restaurantes y galerías de arte, que te sorprenderán con sus grandes escaparates.",
+    "score": "10/10"
+  },
+  {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Ginza-WAKO_at_night.jpg",
+    "place_name": "Odaiba",
+    "description": "Odaiba es una isla artificial situada en la bahía de Tokio y conectada con la ciudad por el largo puente Rainbow. Esta isla es un buen lugar para pasar la tarde disfrutando de sus atracciones, centros comerciales y restaurantes, donde además podrás ver una réplica de la Estatua de la Libertad, un Gundam a tamaño real delante del DiverCity, relajarte en el Onsen Monogatari, subir a la noria de 115 metros Ferris Wheel, visitar el edificio de la Fuji TV y terminar viendo la puesta de sol desde la Playa de Odaiba.",
+    "score": "9/10"
+  },
+  {
+    "photo": "https://lp-cms-production.imgix.net/2019-06/625ee1d8812fa5e563e035b6b5f3b759-shinjuku-west-tokyo.jpg?auto=format&fit=crop&ixlib=react-8.6.4&h=520&w=1312",
+    "place_name": "Shinjuku",
+    "description": "En esta zona rodeada de grandes rascacielos se sitúa la parte administrativa de la ciudad, con el edificio del Gobierno Metropolitano de Tokio, y grandes hoteles como el Park Hyatt Tokyo, que tuvo un especial protagonismo en la película Lost in Translation.",
+    "score": "10/10"
+  }
+]
