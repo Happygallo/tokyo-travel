@@ -26,10 +26,10 @@ class POIAdapter(val pointOfInterest: List<POI>): RecyclerView.Adapter<POIAdapte
         val binding = ItemPoiBinding.bind(view)
 
         fun render(pointOfInterest: POI) {
-            binding.tvNombre.text = pointOfInterest.name
+            binding.tvNombre.text = pointOfInterest.place_name
             binding.tvDescripcion.text = pointOfInterest.description
-            binding.tvPuntaje.text = pointOfInterest.rating
-            Picasso.get().load(pointOfInterest.image).into(binding.imageView)
+            binding.tvPuntaje.text = pointOfInterest.score
+            Picasso.get().load(pointOfInterest.photo).into(binding.imageView)
         }
     }
 }
