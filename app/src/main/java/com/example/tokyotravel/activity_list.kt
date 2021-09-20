@@ -15,7 +15,7 @@ class activity_list : AppCompatActivity() {
 
     private lateinit var rvAdapter: POIAdapter
     private lateinit var binding: ActivityListBinding
-    private lateinit var pointsOfInterests: List<POI>
+    private lateinit var pointsOfInterests: ArrayList<POI>
 
     /*
     var pointsOfInterests: List<POI> = listOf(
@@ -65,10 +65,10 @@ class activity_list : AppCompatActivity() {
             for (i in 0 until placeJSON.length()) {
                 val placeJSON = placeJSON.getJSONObject(i)
                 val place = POI(
-                    placeJSON.getString("photo"),
                     placeJSON.getString("place_name"),
                     placeJSON.getString("description"),
-                    placeJSON.getString("score")
+                    placeJSON.getString("score"),
+                    placeJSON.getString("photo")
                 )
                 pointsOfInterests.add(place)
             }

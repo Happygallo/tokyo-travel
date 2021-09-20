@@ -5,8 +5,7 @@ Proyecto de MisiónTIC 2022 Ciclo 4B
 
 Realizado Por:
 
+    The daemons
+
  - Cristian Montes 
  - Javier Gallo 
- - Juan Camilo Rodríguez 
- - Santiago Pérez
- - Sebastian Laino
