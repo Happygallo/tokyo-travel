@@ -7,4 +7,7 @@
     <string name="tituloLugaresTuristicos">LUGARES TURISTICOS</string>
     <string name="cuerpoLugaresTuristicos">Dentro de los lugares turísticos más significativos de Tokio están el Palacio Imperial, el Distrito Ginza, El Museo Nacional de Tokio, el Templo de Senso-Ji, el Skytree de Tokio, El Museo de Arte Mori, El Museo Miraikan, el Parque Ueno, entre otros.</string>
     <string name="descripcionImagenDetalle">Ciudad de Tokyo</string>
+    <string name="autorizar_notificaciones">Autorizar notificaciones</string>
+    <string name="notificaciones_con_sonido">Notificaciones con sonido</string>
+    <string name="notificaciones">Notificaciones</string>
 </resources>
