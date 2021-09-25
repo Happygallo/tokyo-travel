@@ -5,4 +5,6 @@ data class POI (
     val description: String,
     val score: String,
     val photo: String
+    val temperature: String,
+    val related: String
     )
