@@ -80,6 +80,12 @@
                     android:justificationMode="inter_word"
                     android:text="@string/cuerpoLugaresTuristicos"></TextView>
 
+                <Button
+                    android:id="@+id/buttonD"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Detalles sitios turisticos" />
+
             </LinearLayout>
 
         </LinearLayout>

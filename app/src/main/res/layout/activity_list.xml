@@ -12,4 +12,12 @@
         android:layout_height="match_parent"
         tools:listitem="@layout/item_poi" />
 
+    <Button
+        android:id="@+id/buttonToOne"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:text="Regresar" />
+
+
 </FrameLayout>

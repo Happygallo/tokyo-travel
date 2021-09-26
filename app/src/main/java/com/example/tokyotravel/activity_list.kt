@@ -1,7 +1,9 @@
 package com.example.tokyotravel
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Button
 import androidx.appcompat.widget.LinearLayoutCompat
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.tokyotravel.databinding.ActivityListBinding
@@ -33,6 +35,17 @@ class activity_list : AppCompatActivity() {
         setContentView(binding.root)
         initRecycler()
         createPOI()
+        bton()
+
+    }
+
+    fun bton(){
+        val btnToOne: Button = findViewById(R.id.buttonToOne)
+
+        btnToOne.setOnClickListener {
+            val intent = Intent(applicationContext, MainActivity::class.java)
+            startActivity(intent)
+        }
     }
 
 
@@ -68,7 +81,9 @@ class activity_list : AppCompatActivity() {
                     placeJSON.getString("place_name"),
                     placeJSON.getString("description"),
                     placeJSON.getString("score"),
-                    placeJSON.getString("photo")
+                    placeJSON.getString("photo"),
+                    placeJSON.getString("temperature"),
+                    placeJSON.getString("related")
                 )
                 pointsOfInterests.add(place)
             }
